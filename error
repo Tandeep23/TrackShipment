@@ -1,0 +1,12 @@
+# command-line-arguments
+./trackshipment_temp.go:66: empty character literal or unescaped ' in character literal
+./trackshipment_temp.go:66: missing '
+./trackshipment_temp.go:79: missing '
+./trackshipment_temp.go:79: syntax error: missing { after if clause
+./trackshipment_temp.go:79: missing '
+./trackshipment_temp.go:82: syntax error: unexpected comma at end of statement
+./trackshipment_temp.go:83: syntax error: unexpected comma at end of statement
+./trackshipment_temp.go:84: syntax error: unexpected } after top level declaration
+./trackshipment_temp.go:121: syntax error: non-declaration statement outside function body
+./trackshipment_temp.go:125: empty character literal or unescaped ' in character literal
+./trackshipment_temp.go:125: too many errors
